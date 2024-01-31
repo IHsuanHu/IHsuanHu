@@ -12,7 +12,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/i-hsuan-hu-188367223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" width="200" /></a>
+<a href="https://www.linkedin.com/in/i-hsuan-hu-188367223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" width="250" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
