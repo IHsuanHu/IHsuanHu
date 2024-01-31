@@ -4,7 +4,7 @@
 - 🌱 I'm currently specializing in Computer Software Engineering.
 - I'm actively seeking internship or full-time opportunities.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviahjy&label=Profile%20views&color=0e75b6&style=flat" alt="sylviahjy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsuanhu&label=Profile%20views&color=0e75b6&style=flat" alt="ihsuanhu" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
