@@ -32,8 +32,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsuanhu&show_icons=true&layout=compact&theme=gotham" height="170" width="350"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsuanhu&show_icons=true&theme=gotham" height="250" width="400"/>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ihsuanhu&repo=cs-548"/>
+
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=ihsuanhu&repo=cs-548"/>
 **IHsuanHu/IHsuanHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
