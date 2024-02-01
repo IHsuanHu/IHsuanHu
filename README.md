@@ -29,7 +29,7 @@
 
 📈 my github stats
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsuanhu&show_icons=true&layout=compact&theme=gotham" height="170" width="500"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsuanhu&show_icons=true&layout=compact&theme=gotham" height="170" width="350"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsuanhu&show_icons=true&theme=gotham" height="250" width="400"/>
 </p>
 <!--
