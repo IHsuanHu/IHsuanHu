@@ -11,7 +11,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ihsuanhu/count.svg" />
 </p>
-[email](mailto:ihsuanhu@gmail.com)
+- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 <h3 align="left">About me</h3>
 <p align="center">
 [email](mailto:ihsuanhu@gmail.com)
