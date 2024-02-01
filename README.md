@@ -14,7 +14,7 @@
 <h3 align="left">About me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/i-hsuan-hu-188367223/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="80" width="250" />
+<img align="center" src="https://yt3.googleusercontent.com/9XmuxL_LL7CxAOOlbBgTnJIo2uHpoLKHhWzlPt7O49ULQmvBSJlxk1RpX3pJ8jkRBkD6p9BIRg=s176-c-k-c0x00ffffff-no-rj" height="80" width="250" />
 </a>
 <a href="https://leetcode.com/ihu/">
 <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="80" width="250"/>
