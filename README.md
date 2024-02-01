@@ -30,7 +30,7 @@
 📈 my github stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsuanhu&show_icons=true&locale=en&layout=compact&theme=gotham" height="170" width="400"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsuanhu&show_icons=true&theme=gotham" height="250" width="400"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsuanhu&show_icons=true&theme=gotham" height="250" width="300"/>
 </p>
 <!--
 **IHsuanHu/IHsuanHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
