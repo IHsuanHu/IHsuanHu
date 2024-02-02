@@ -54,7 +54,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a>
 <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux?intcmp=7013a000003Sl4pAAC"> <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg" width="45" height="45"/></a>
 <a href="https://www.ibm.com/products/db2"> <img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/ibm-db2--logo.svg" width="45" height="45"/> </a>
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.shareicon.net/data/128x128/2016/06/21/607538_aws_4096x4096.png" alt="aws" width="45" height="45"/> </a>
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" alt="aws" width="45" height="45"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a> 
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a> 
 
