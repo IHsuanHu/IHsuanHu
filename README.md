@@ -25,7 +25,7 @@
 </p>
 
 ## Tools
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank"> <img src="https://logodix.com/logo/64439.png" alt="github" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.spyder-ide.org/" target="blank"> <img src="https://github.com/spyder-ide/spyder/blob/master/img_src/spyder.svg" width="40" height="40" /></a>
