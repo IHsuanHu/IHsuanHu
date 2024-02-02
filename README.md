@@ -58,7 +58,8 @@
 <a href="https://www.ibm.com/products/db2"> <img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/ibm-db2--logo.svg" width="45" height="45"/> </a>
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> </a> 
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a> 
+<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/> </a>
+<a href="https://maven.apache.org/"> <img src="https://cracklogic.com/wp-content/uploads/2018/01/apache_maven.png"/> </a>
 
 
 <!--
