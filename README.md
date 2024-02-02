@@ -28,12 +28,14 @@
 <a href="https://www.ibm.com/products/spss-statistics" target="_blank"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spss/spss-original.svg" width="40" height="40"/> </a>
 <a href="https://posit.co/download/rstudio-desktop/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/rstudio_94807.png" width="40" height="40"/> </a>
 
+
 ## Languages
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40"/> </a>
+
 
 ## Technology Stack
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/> </a> 
