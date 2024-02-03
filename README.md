@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">An enthusiastic Software Developer/Full-Stack Engineer based in the vibrant city of Seattle</h3>
+<h3 align="center"></h3>
 
 <!--
 - 👀 I'm an avid snowboarder in my free time.
