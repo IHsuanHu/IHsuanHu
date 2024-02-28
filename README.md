@@ -15,9 +15,9 @@
 
 ## Contact and About me
 <p align="center">
-<a href="https://www.linkedin.com/in/i-hsuan-hu-188367223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="80" width="200" /></a>&#160;&#160;&#160;&#160;&#160;&#160;
-<a href="https://leetcode.com/ihu/"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="80" width="200"/></a>&#160;&#160;&#160;&#160;&#160;&#160;
-<a href = "mailto:ihsuanhu@gmail.com?subject = Feedback&body = Message"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="80" width="200"/></a>
+<a href="https://www.linkedin.com/in/i-hsuan-hu-188367223/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="80" width="250" /></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+<a href="https://leetcode.com/ihu/"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="80" width="250"/></a>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
+<a href = "mailto:ihsuanhu@gmail.com?subject = Feedback&body = Message"> <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="80" width="250"/></a>
 </p>
 
 ## Tools
