@@ -6,7 +6,7 @@
   - Passionate about learning new things and anything relative to software technology.
 </h4>
 <h4 align="left"> Here is my</h4> [site]( https://ihsuanhu.github.io )
-[authors.json](https://gist.githubusercontent.com/graffixnyc/a086a55e04f25e538b5d52a095fe4467/raw/e9f835e9a5439a647a24fa272fcb8f5a2b94dece/authors.json)
+[my](https://github.com/IHsuanHu/CS-546/edit/main/Lab3_stub/Description.md)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ihsuanhu/count.svg" />
