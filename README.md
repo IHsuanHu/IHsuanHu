@@ -1,12 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center"></h3>
+<h1 align="center">Hi, I am Michael</h1>
+<h3 align="center">
+  Currently, a Computer Science student at Stevens Institute of Technology looking for full-time opportunities.
+  Majored in Entomology and experienced in biology, biomolecule, and statistics.
+  Passionate about learning new things and anything relative to software technology.
+</h3>
+<p align="center"> Here is my [site](https://ihsuanhu.github.io)</p>
 
-<!--
-- 👀 I'm an avid snowboarder in my free time.
-- 🌱 I'm currently specializing in Computer Software Engineering.
-- I'm actively seeking internship or full-time opportunities.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsuanhu&label=Profile%20views&color=0e75b6&style=flat" alt="ihsuanhu" /> </p>
--->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ihsuanhu/count.svg" />
