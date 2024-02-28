@@ -8,8 +8,8 @@
 
 ### Here is my [website](https://ihsuanhu.github.io)
 
+<h2 align="center">Visitor Count</h2>
 <p align="center"> 
-  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ihsuanhu/count.svg" />
 </p>
 
