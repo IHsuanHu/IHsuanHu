@@ -64,7 +64,7 @@
 
 
 
-<p align="center"> 📈 my github stats</p>
+<h4 align="center"> 📈 my github stats</h4>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihsuanhu&show_icons=true&layout=compact&theme=gotham&hide_border=true" height="170" width="300"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsuanhu&show_icons=true&theme=gotham&hide_border=true" height="250" width="350"/>
