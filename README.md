@@ -2,7 +2,7 @@
 <h3 align="left">
   
   - Currently, a Computer Science student at Stevens Institute of Technology looking for full-time opportunities.
-  - Majored in Entomology and experienced in biology, biomolecule, and statistics.
+  - Majored in Entomology and experienced in biology, biomolecular, and statistics.
   - Passionate about learning new things and anything relative to software technology.
 </h3>
 
