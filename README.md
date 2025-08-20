@@ -2,7 +2,7 @@
 <h3 align="left">
   
   - Currently, working as a LabView engineer at Applied Optoelectronics, Inc. and open for looking full-time opportunities.
-  - Computer Science student at Stevens Institute of Technology.
+  - Graduated from Stevens Institute of Technology with the degree in computer science.
   - Experienced with frontend and backend technology to build a responsive web application.
   - Majored in Entomology and experienced in biology, biomolecular, and statistics.
   - Passionate about learning new things and anything relative to software technology.
