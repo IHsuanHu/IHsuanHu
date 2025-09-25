@@ -15,7 +15,7 @@
 </h2>
 <p align="center">
   <a href="https://leetcode.com/u/ihu/">
-    <img src="https://leetcard.jacoblin.cool/skydodle?ext=heatmap" alt="Leetcode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/u/ihu?ext=heatmap" alt="Leetcode Stats"/>
   </a>
 </p>
 
