@@ -10,9 +10,13 @@
 
 ### Here is my [website](https://ihsuanhu.github.io)
 
-<h2 align="center">Visitor Count</h2>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/ihsuanhu/count.svg" />
+<h2 align="center">
+  My Leetcode Profile stats
+</h2>
+<p align="center">
+  <a href="https://leetcode.com/u/ihu/">
+    <img src="https://leetcard.jacoblin.cool/skydodle?ext=heatmap" alt="Leetcode Stats"/>
+  </a>
 </p>
 
 ## Contact and About me
